@@ -1,7 +1,7 @@
 # Ứng dụng Chat với tính năng xem chung video
 # Thành Viên
 Lương Nhật Tuấn - B20DCCN615
-Lê Thị Quỳnh Nhi - B20DCCN487
+Nguyễn Thu Thảo - B20DCCN655
 Lê Xuân Thành - B20DCCN647
 ## Mô tả
 
