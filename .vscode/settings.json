@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\lombok.jar",
+        "c:\\Users\\nhatt\\Downloads\\lombok.jar",
+        "c:\\Users\\nhatt\\Desktop\\webcam-capture-0.3.12-dist\\webcam-capture-0.3.12.jar",
+        "c:\\Users\\nhatt\\Desktop\\webcam-capture-0.3.12-dist\\libs\\bridj-0.7.0.jar",
+        "c:\\Users\\nhatt\\Desktop\\webcam-capture-0.3.12-dist\\libs\\slf4j-api-1.7.2.jar"
+    ]
+}
